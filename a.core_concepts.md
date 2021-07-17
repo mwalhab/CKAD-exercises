@@ -1,6 +1,6 @@
 ![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/core_concepts&empty)
 # Core Concepts (13%)
-
+ADD CHANGES
 kubernetes.io > Documentation > Reference > kubectl CLI > [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 kubernetes.io > Documentation > Tasks > Monitoring, Logging, and Debugging > [Get a Shell to a Running Container](https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/)
